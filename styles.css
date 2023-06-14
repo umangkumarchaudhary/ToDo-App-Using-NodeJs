@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+button{
+    padding:5px 10px;
+    background-color: black;
+    color:  #fff;
+}
+
+input[type ="text"]{
+    padding :5px;
+    width: 300px;
+}
+ul{
+    padding-right :10px;
+}
